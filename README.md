@@ -29,7 +29,8 @@ BIZ UDゴシックを使用することを推奨します。
     - 開発環境を一新  
         - Ubuntu 22.04  
         - fontforge 20220308  
-        - ttfautohint 1.8
+        - ttfautohint 1.8.3
+        - Python 3.11
 - ver. 2.00 (2022/05/22)
     - 初版  
 
